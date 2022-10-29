@@ -1,6 +1,6 @@
 {
-    "name": "dome",
-    "description": "",
+    "name": "qp19891126",
+    "description": "dome",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -20,6 +20,6 @@
             "value": "chacha20-ietf-poly1305"
         }
     },
-    "repository": "",
+    "repository": " ",
     "stack": "container"
 }
